@@ -68,7 +68,13 @@ body{
 	font-style: italic;
 }
 ul {list-style: none; margin: 0}
-p{margin:0}
+p{margin:0; }
+a{
+	color: blue;
+    text-decoration: none;
+    text-shadow: none;
+    font-weight: bold;
+}
 li::before {
 	content: "•"; 
 	display: inline-block;
@@ -107,7 +113,8 @@ li::before {
 	left: 0;
 	text-align: left;
 	margin-left: 15px;
-	font-size: 0.7em;
+	font-size: 0.6em;
+	max-width: 45%;
 }
 #linki{
 	position: absolute;
@@ -115,7 +122,8 @@ li::before {
 	right: 0;
 	text-align: right;
 	margin-right: 15px;
-	font-size: 0.7em;
+	font-size: 0.5em;
+	max-width: 45%;
 }
 
 
