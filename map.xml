@@ -2,24 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-  <url> 
-    <loc>https://kancelaria-zysk.pl/index.html</loc> 
-    <loc>https://kancelaria-zysk.pl/</loc> 
-    <image:image>
-       <image:loc>https://kancelaria-zysk.pl/bg.jpg</image:loc>
-       <image:caption>Tło, pieniądze ze stoperem</image:caption>
-    </image:image>
-    <image:image>
-       <image:loc>https://kancelaria-zysk.pl/bg2.jpg</image:loc>
-       <image:caption>Tło, biuro</image:caption>
-    </image:image>
-    <image:image>
-       <image:loc>https://kancelaria-zysk.pl/logo.png</image:loc>
-       <image:caption>Logo Kancelaria ZYSK Grudziądz</image:caption>
-    </image:image>
-    <image:image>
-       <image:loc>https://kancelaria-zysk.pl/mapa.png</image:loc>
-       <image:caption>znacznik mapy</image:caption>
-    </image:image>
-  </url>
+	<loc>https://kancelaria-zysk.pl/index.html</loc> 
+	<loc>https://kancelaria-zysk.pl/</loc> 
+	<image:image>
+	   <image:loc>https://kancelaria-zysk.pl/bg.jpg</image:loc>
+	   <image:caption>Tło, pieniądze ze stoperem</image:caption>
+	</image:image>
+	<image:image>
+	   <image:loc>https://kancelaria-zysk.pl/bg2.jpg</image:loc>
+	   <image:caption>Tło, biuro</image:caption>
+	</image:image>
+	<image:image>
+	   <image:loc>https://kancelaria-zysk.pl/logo.png</image:loc>
+	   <image:caption>Logo Kancelaria ZYSK Grudziądz</image:caption>
+	</image:image>
+	<image:image>
+	   <image:loc>https://kancelaria-zysk.pl/mapa.png</image:loc>
+	   <image:caption>znacznik mapy</image:caption>
+	</image:image>
 </urlset>
