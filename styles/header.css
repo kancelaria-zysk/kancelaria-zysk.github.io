@@ -1,0 +1,64 @@
+#start {
+  padding: 50px 20px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  box-shadow: inset 0px -50px 50px -50px;
+  background: white;
+}
+#main {
+  font-family: "Playfair Display", serif;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+}
+#main h1 {
+  font-weight: 400;
+  margin-bottom: 0px;
+  font-size: 1.8em;
+  margin: 0;
+}
+#Zysk img {
+  margin-top: 10px;
+  height: 80px;
+}
+#Zysk {
+  display: inline-block;
+}
+#Zysk-details {
+  display: inline-block;
+}
+#mgr {
+  font-size: 0.8em;
+}
+#licencja {
+  font-size: 0.4em;
+}
+#contact {
+  font-size: 0.5em;
+}
+#contact p {
+  margin: 0;
+}
+#contact i {
+  font-size: 1.2em;
+  color: red;
+  position: relative;
+  top: 5px;
+}
+#contact a {
+  text-decoration: none;
+  color: blue;
+}
+
+#googleMap {
+  margin-right: 50px;
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 5px 3px;
+  background: url(../mapa.png);
+  background-size: cover;
+  display: flex;
+  flex: 0 0 auto;
+}
