@@ -38,6 +38,6 @@ window.onload = ()=>{
             bar.style.width = "100%";
         }, 1000);
         clearInterval(nextTimeout);
-        nextTimeout = setTimeout(next, 9000);
+        nextTimeout = setTimeout(next, 10000);
     }
 }
