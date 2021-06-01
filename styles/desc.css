@@ -70,7 +70,7 @@
   width: calc(100% - 20px);
 }
 .progress {
-  transition: linear 10s;
+  transition: linear 9s;
   background: white;
   width: 0;
   height: 3px;
